@@ -1,0 +1,10 @@
+pages\BasePage.class
+pages\LoginPage.class
+pages\HomePage.class
+helpers\ColorPrinter.class
+pages\MainPage.class
+helpers\ColorPrinter$1.class
+org\example\Main.class
+helpers\ConsoleColors.class
+helpers\Level.class
+pages\IssuePage.class
