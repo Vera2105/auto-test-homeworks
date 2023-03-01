@@ -1,0 +1,18 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "success": "boolean",
+  "data": [
+    {
+      "TotalCount": "integer",
+      "Address": "array"
+    }
+  ],
+  "errors": "String",
+  "warnings": "array",
+  "info": "array",
+  "messageCodes": "array",
+  "errorCodes": "array",
+  "warningCodes": "array",
+  "infoCodes": "array"
+}
