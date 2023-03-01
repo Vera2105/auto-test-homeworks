@@ -10,8 +10,10 @@ public class IssuePage extends BasePage{
     WebElement mentionedTab = driver.findElement(By.xpath("//a[text()='Mentioned']"));
     WebElement inputSearch = driver.findElement(By.id("js-issues-search"));
 
+    public final static String TITLE = "Issue Page";
+
     public IssuePage(WebDriver driver) {
-        super(driver);
+        super(driver,TITLE);
     }
 
     public String getValue(){

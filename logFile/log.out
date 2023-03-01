@@ -1,0 +1,102 @@
+01:59:18 26.02.2023 Main: INFO - INFO
+01:59:18 26.02.2023 Main: DEBUG- DEBUG
+02:00:33 26.02.2023 BasePage: INFO - [0;34mPage object ofHome Pagepages.HomePage[0m
+02:00:34 26.02.2023 BasePage: INFO - [0;34mPage object ofLogin Pagepages.LoginPage[0m
+02:00:35 26.02.2023 BasePage: INFO - [0;34mPage object ofLogin Pagepages.LoginPage[0m
+02:00:38 26.02.2023 BasePage: INFO - [0;34mPage object ofMain Pagepages.MainPage[0m
+02:00:38 26.02.2023 BasePage: INFO - [0;34mPage object ofMain Pagepages.MainPage[0m
+02:00:39 26.02.2023 BasePage: INFO - [0;34mPage object ofIssue Pagepages.IssuePage[0m
+02:00:39 26.02.2023 BasePage: INFO - [0;34mPage object ofIssue Pagepages.IssuePage[0m
+02:00:40 26.02.2023 BasePage: INFO - [0;34mPage object ofIssue Pagepages.IssuePage[0m
+02:00:40 26.02.2023 BasePage: INFO - [0;34mPage object ofIssue Pagepages.IssuePage[0m
+16:28:07 26.02.2023 BasePage: DEBUG- [0;34mPage object ofHome Pagepages.HomePage[0m
+16:28:11 26.02.2023 BasePage: DEBUG- [0;34mPage object ofLogin Pagepages.LoginPage[0m
+16:28:12 26.02.2023 BasePage: DEBUG- [0;34mPage object ofLogin Pagepages.LoginPage[0m
+16:36:56 26.02.2023 BasePage: DEBUG- [0;34mPage object ofHome Pagepages.HomePage[0m
+16:36:57 26.02.2023 BasePage: DEBUG- [0;34mPage object ofLogin Pagepages.LoginPage[0m
+16:36:58 26.02.2023 BasePage: DEBUG- [0;34mPage object ofLogin Pagepages.LoginPage[0m
+16:37:02 26.02.2023 BasePage: INFO - successful authorization
+16:37:02 26.02.2023 BasePage: INFO - [0;32msuccessful authorization[0m
+16:37:02 26.02.2023 BasePage: DEBUG- [0;34mPage object ofMain Pagepages.MainPage[0m
+16:37:02 26.02.2023 BasePage: DEBUG- [0;34mPage object ofMain Pagepages.MainPage[0m
+16:37:02 26.02.2023 BasePage: DEBUG- [0;34mPage object ofIssue Pagepages.IssuePage[0m
+16:37:02 26.02.2023 BasePage: DEBUG- [0;34mPage object ofIssue Pagepages.IssuePage[0m
+16:37:03 26.02.2023 BasePage: DEBUG- [0;34mPage object ofIssue Pagepages.IssuePage[0m
+16:37:03 26.02.2023 BasePage: DEBUG- [0;34mPage object ofIssue Pagepages.IssuePage[0m
+16:50:26 26.02.2023 BaseTest: INFO - The opening of ChromeDriver is happened
+16:50:26 26.02.2023 BasePage: DEBUG- [0;34mPage object ofHome Pagepages.HomePage[0m
+16:50:27 26.02.2023 BasePage: DEBUG- [0;34mPage object ofLogin Pagepages.LoginPage[0m
+16:50:28 26.02.2023 BasePage: DEBUG- [0;34mPage object ofLogin Pagepages.LoginPage[0m
+16:52:40 26.02.2023 BaseTest: INFO - The opening of ChromeDriver is happened
+16:52:40 26.02.2023 BasePage: DEBUG- [0;34mPage object ofHome Pagepages.HomePage[0m
+16:52:41 26.02.2023 BasePage: DEBUG- [0;34mPage object ofLogin Pagepages.LoginPage[0m
+16:52:42 26.02.2023 BasePage: DEBUG- [0;34mPage object ofLogin Pagepages.LoginPage[0m
+16:54:01 26.02.2023 BaseTest: INFO - The opening of ChromeDriver is happened
+16:54:01 26.02.2023 BasePage: DEBUG- [0;34mPage object ofHome Pagepages.HomePage[0m
+16:54:01 26.02.2023 BasePage: DEBUG- [0;34mPage object ofLogin Pagepages.LoginPage[0m
+16:54:02 26.02.2023 BasePage: DEBUG- [0;34mPage object ofLogin Pagepages.LoginPage[0m
+16:54:30 26.02.2023 BaseTest: INFO - The opening of ChromeDriver is happened
+16:54:30 26.02.2023 BasePage: DEBUG- [0;34mPage object ofHome Pagepages.HomePage[0m
+16:54:31 26.02.2023 BasePage: DEBUG- [0;34mPage object ofLogin Pagepages.LoginPage[0m
+16:54:32 26.02.2023 BasePage: DEBUG- [0;34mPage object ofLogin Pagepages.LoginPage[0m
+17:01:06 26.02.2023 BaseTest: INFO - The opening of ChromeDriver is happened
+17:01:06 26.02.2023 BasePage: DEBUG- [0;34mPage object ofHome Pagepages.HomePage[0m
+17:01:07 26.02.2023 BasePage: DEBUG- [0;34mPage object ofLogin Pagepages.LoginPage[0m
+17:01:08 26.02.2023 BasePage: DEBUG- [0;34mPage object ofLogin Pagepages.LoginPage[0m
+17:03:49 26.02.2023 BaseTest: INFO - The opening of ChromeDriver is happened
+17:03:49 26.02.2023 BasePage: DEBUG- [0;34mPage object ofHome Pagepages.HomePage[0m
+17:03:50 26.02.2023 BasePage: DEBUG- [0;34mPage object ofLogin Pagepages.LoginPage[0m
+17:03:51 26.02.2023 BasePage: DEBUG- [0;34mPage object ofLogin Pagepages.LoginPage[0m
+17:03:51 26.02.2023 SomeTests: INFO - The check of logo was passed
+17:19:39 26.02.2023 BaseTest: INFO - The opening of ChromeDriver is happened
+17:19:39 26.02.2023 SomeTests: INFO - checkLogoOnThe1loginPage is started 
+17:19:39 26.02.2023 BasePage: DEBUG- [0;34mPage object ofHome Pagepages.HomePage[0m
+17:19:39 26.02.2023 BasePage: DEBUG- [0;34mPage object ofLogin Pagepages.LoginPage[0m
+17:19:40 26.02.2023 BasePage: DEBUG- [0;34mPage object ofLogin Pagepages.LoginPage[0m
+17:19:41 26.02.2023 SomeTests: INFO - checkLogoOnThe1loginPage was passed successfully
+17:26:39 26.02.2023 BaseTest: INFO - The opening of ChromeDriver is happened
+17:26:39 26.02.2023 IssuePageTest: INFO - The checkInitValueOfInputSearch is started
+17:26:39 26.02.2023 BasePage: DEBUG- [0;34mPage object ofHome Pagepages.HomePage[0m
+17:26:39 26.02.2023 BasePage: DEBUG- [0;34mPage object ofLogin Pagepages.LoginPage[0m
+17:26:41 26.02.2023 BasePage: DEBUG- [0;34mPage object ofLogin Pagepages.LoginPage[0m
+17:26:46 26.02.2023 BasePage: INFO - successful authorization
+17:26:46 26.02.2023 BasePage: INFO - [0;32msuccessful authorization[0m
+17:26:46 26.02.2023 BasePage: DEBUG- [0;34mPage object ofMain Pagepages.MainPage[0m
+17:26:46 26.02.2023 BasePage: DEBUG- [0;34mPage object ofMain Pagepages.MainPage[0m
+17:26:47 26.02.2023 BasePage: DEBUG- [0;34mPage object ofIssue Pagepages.IssuePage[0m
+17:26:47 26.02.2023 BasePage: DEBUG- [0;34mPage object ofIssue Pagepages.IssuePage[0m
+17:26:47 26.02.2023 IssuePageTest: INFO - The checkInitValueOfInputSearch has passed successfully
+17:41:14 26.02.2023 BaseTest: INFO - The opening of ChromeDriver is happened
+17:41:14 26.02.2023 IssuePageTest: INFO - The checkValueOfInputSearchOnCreatedTab is started
+17:41:14 26.02.2023 BasePage: DEBUG- [0;34mPage object ofHome Pagepages.HomePage[0m
+17:41:14 26.02.2023 BasePage: INFO - [0;32mThe Login page was opened[0m
+17:41:14 26.02.2023 BasePage: DEBUG- [0;34mPage object ofLogin Pagepages.LoginPage[0m
+17:41:15 26.02.2023 BasePage: DEBUG- [0;34mPage object ofLogin Pagepages.LoginPage[0m
+17:41:18 26.02.2023 BasePage: INFO - [0;32msuccessful authorization[0m
+17:41:18 26.02.2023 BasePage: DEBUG- [0;34mPage object ofMain Pagepages.MainPage[0m
+17:41:18 26.02.2023 BasePage: DEBUG- [0;34mPage object ofMain Pagepages.MainPage[0m
+17:41:19 26.02.2023 BasePage: INFO - [0;32mThe Issue page was opened[0m
+17:41:19 26.02.2023 BasePage: DEBUG- [0;34mPage object ofIssue Pagepages.IssuePage[0m
+17:41:20 26.02.2023 BasePage: DEBUG- [0;34mPage object ofIssue Pagepages.IssuePage[0m
+17:41:21 26.02.2023 BasePage: DEBUG- [0;34mPage object ofIssue Pagepages.IssuePage[0m
+17:41:22 26.02.2023 BasePage: DEBUG- [0;34mPage object ofIssue Pagepages.IssuePage[0m
+17:41:22 26.02.2023 BasePage: DEBUG- [0;34mPage object ofIssue Pagepages.IssuePage[0m
+17:41:22 26.02.2023 BasePage: DEBUG- [0;34mPage object ofIssue Pagepages.IssuePage[0m
+17:41:22 26.02.2023 IssuePageTest: INFO - The checkValueOfInputSearchOnCreatedTab has passed successfully
+17:52:48 26.02.2023 BaseTest: INFO - The opening of ChromeDriver is happened
+17:52:48 26.02.2023 IssuePageTest: INFO - The checkValueOfInputSearchOnCreatedTab is started
+17:52:48 26.02.2023 BasePage: DEBUG- [0;34mPage object ofHome Pagepages.HomePage[0m
+17:52:49 26.02.2023 BasePage: INFO - [0;32mThe Login page was opened[0m
+17:52:49 26.02.2023 BasePage: DEBUG- [0;34mPage object ofLogin Pagepages.LoginPage[0m
+17:52:51 26.02.2023 BasePage: DEBUG- [0;34mPage object ofLogin Pagepages.LoginPage[0m
+17:52:58 26.02.2023 BasePage: INFO - [0;32msuccessful authorization[0m
+17:52:58 26.02.2023 BasePage: DEBUG- [0;34mPage object ofMain Pagepages.MainPage[0m
+17:52:58 26.02.2023 BasePage: DEBUG- [0;34mPage object ofMain Pagepages.MainPage[0m
+17:52:59 26.02.2023 BasePage: INFO - [0;32mThe Issue page was opened[0m
+17:52:59 26.02.2023 BasePage: DEBUG- [0;34mPage object ofIssue Pagepages.IssuePage[0m
+17:52:59 26.02.2023 BasePage: DEBUG- [0;34mPage object ofIssue Pagepages.IssuePage[0m
+17:53:00 26.02.2023 BasePage: DEBUG- [0;34mPage object ofIssue Pagepages.IssuePage[0m
+17:53:00 26.02.2023 BasePage: DEBUG- [0;34mPage object ofIssue Pagepages.IssuePage[0m
+17:53:01 26.02.2023 BasePage: DEBUG- [0;34mPage object ofIssue Pagepages.IssuePage[0m
+17:53:01 26.02.2023 BasePage: DEBUG- [0;34mPage object ofIssue Pagepages.IssuePage[0m
+17:53:01 26.02.2023 IssuePageTest: INFO - The checkValueOfInputSearchOnCreatedTab has passed successfully
