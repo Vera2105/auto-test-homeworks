@@ -1,5 +1,6 @@
 package homework_10_Api;
 
+import dto.CityCatalog;
 import io.restassured.http.ContentType;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
